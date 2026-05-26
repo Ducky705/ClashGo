@@ -1,0 +1,10 @@
+{
+  "image": "loot_diag.png",
+  "expected_state": "Battle",
+  "expected_loot": {
+    "Gold": 0,
+    "Elixir": 4,
+    "DarkElixir": 6959,
+    "Trophies": 0
+  }
+}
