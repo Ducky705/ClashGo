@@ -1,1 +1,41 @@
-[]
+[
+  {
+    "timestamp": "2026-06-08T00:27:59+02:00",
+    "strategy": "Auto EDrag Rush",
+    "target_edge": "Random",
+    "deploy_success": false,
+    "undeployed_slots": 3,
+    "parsed_results": true,
+    "stars": 3,
+    "gold_stolen": 731887,
+    "elixir_stolen": 692416,
+    "dark_elixir_stolen": 4369,
+    "total_attacks_session": 3
+  },
+  {
+    "timestamp": "2026-06-08T00:23:00+02:00",
+    "strategy": "Auto EDrag Rush",
+    "target_edge": "Random",
+    "deploy_success": true,
+    "undeployed_slots": 0,
+    "parsed_results": true,
+    "stars": 3,
+    "gold_stolen": 1584829,
+    "elixir_stolen": 1424357,
+    "dark_elixir_stolen": 12181,
+    "total_attacks_session": 2
+  },
+  {
+    "timestamp": "2026-06-08T00:20:22+02:00",
+    "strategy": "Auto EDrag Rush",
+    "target_edge": "Random",
+    "deploy_success": true,
+    "undeployed_slots": 0,
+    "parsed_results": true,
+    "stars": 3,
+    "gold_stolen": 1223670,
+    "elixir_stolen": 893623,
+    "dark_elixir_stolen": 6211,
+    "total_attacks_session": 1
+  }
+]
