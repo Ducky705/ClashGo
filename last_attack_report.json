@@ -1,13 +1,13 @@
 {
-  "timestamp": "2026-06-08T00:27:59+02:00",
+  "timestamp": "2026-06-08T00:34:47+02:00",
   "strategy": "Auto EDrag Rush",
   "target_edge": "Random",
-  "deploy_success": false,
-  "undeployed_slots": 3,
+  "deploy_success": true,
+  "undeployed_slots": 0,
   "parsed_results": true,
   "stars": 3,
-  "gold_stolen": 731887,
-  "elixir_stolen": 692416,
-  "dark_elixir_stolen": 4369,
-  "total_attacks_session": 3
+  "gold_stolen": 1240900,
+  "elixir_stolen": 569854,
+  "dark_elixir_stolen": 6081,
+  "total_attacks_session": 1
 }
