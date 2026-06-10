@@ -1,0 +1,11 @@
+{
+  "timestamp": "2026-06-08T23:54:28.22722+02:00",
+  "reason": "deployment_failed",
+  "state": "failed",
+  "context": {
+    "error": "\u003cnil\u003e",
+    "remaining": 3,
+    "stratName": "Auto EDrag Rush",
+    "targetEdge": "Random"
+  }
+}
