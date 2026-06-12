@@ -1,0 +1,20 @@
+{
+  "attacks_completed": 4,
+  "search_skips": 31,
+  "total_gold": 2741992,
+  "total_elixir": 3479516,
+  "total_de": 17097,
+  "stars_0": 0,
+  "stars_1": 2,
+  "stars_2": 1,
+  "stars_3": 1,
+  "uptime": 728784754667,
+  "adb_health": {
+    "last_capture": "0001-01-01T00:00:00Z",
+    "avg_capture_ms": 0,
+    "consecutive_fails": 0,
+    "captures_total": 0,
+    "errors_total": 0,
+    "last_error": ""
+  }
+}
